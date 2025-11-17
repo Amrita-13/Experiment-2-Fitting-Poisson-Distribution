@@ -18,6 +18,10 @@ Python and Visual Component Tool
 # Program
 
 ```
+Name: Amrita B S
+Reg.No:25018474
+Slot No:3P1-1
+
 import numpy as np
 import math
 import scipy.stats
@@ -81,6 +85,9 @@ if cal_chi2_sq < table_chi2:
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
+
+colab link: https://colab.research.google.com/drive/1eKNC1SJ6J7Lzc2V6tmghMMBM1k7HYfMe?usp=sharing
+
 
 
 
